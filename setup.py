@@ -40,7 +40,7 @@ requirements = [
     'numpy',
     'scipy>=0.17',
     'scikit-image',
-    'opencv-python',
+    'opencv-contrib-python-headless',
     'tqdm',
     'numba',
     'enum34;python_version<"3.4"'
